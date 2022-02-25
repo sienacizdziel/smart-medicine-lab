@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/siena/Desktop/smart medicine lab/smart-medicine-lab/env/bin/python3" "$0" "$@"
+'''exec' "/Users/siena/Desktop/smart medicine lab/smart-medicine-lab/env/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
